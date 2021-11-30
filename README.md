@@ -3,6 +3,10 @@
 <!--
 **Beluomini/Beluomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<td align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Beluomini&show_icons=true&theme=dracula" />
+</td>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
